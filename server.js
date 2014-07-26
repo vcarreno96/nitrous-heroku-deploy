@@ -1,4 +1,4 @@
-herokuvar http = require('http'),
+var http = require('http'),
     port = Number(process.env.PORT || 3000);
 
 http.createServer(function (req, res) {
