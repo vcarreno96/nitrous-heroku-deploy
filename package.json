@@ -1,0 +1,17 @@
+{
+  "name": "noders-devop",
+  "version": "0.0.0",
+  "description": "node-devops",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "7559f7f7176e76dfde6689314adfdfc9180b4f1b",
+  "engines": {
+    "node": "0.10.11"
+  }  
+}
