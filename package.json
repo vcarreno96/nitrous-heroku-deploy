@@ -1,7 +1,7 @@
 {
-  "name": "noders-devop",
+  "name": "nitrous-heroku-deploy",
   "version": "0.0.0",
-  "description": "node-devops",
+  "description": "nitrous-heroku-deploy",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
